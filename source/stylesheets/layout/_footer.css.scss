@@ -1,0 +1,35 @@
+#footer {
+    background: #333333;
+    padding: 30px 0;
+    color: #CCCCCC;
+}
+#footer ul {
+    margin-top: 10px;
+}
+#footer p {
+    margin-top: 17px;
+}
+#footer a {
+    color: #CCCCCC;
+    font-size: 30px;
+    letter-spacing: 20px;
+    transition: color 0.5s ease;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-xs-4 {
+    width: 33.33333333%;
+}
+.col-xs-8 {
+    width: 66.66666667%;
+}
+
